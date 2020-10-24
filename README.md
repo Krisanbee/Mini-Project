@@ -1,1 +1,1 @@
-# SmartKnower
+# Mini Project
